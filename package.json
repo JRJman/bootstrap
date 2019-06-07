@@ -1,0 +1,16 @@
+{
+  "name": "bootstraptest",
+  "version": "1.0.0",
+  "description": "een training met Bootstrap op een pagina van Lord of the Rings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joep Janssen",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "jquery-match-height": "^0.7.2"
+  }
+}
